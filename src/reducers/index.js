@@ -21,7 +21,7 @@ const banner = handleActions({
     const html = document.getElementById(state.id);
     htmlToImage.toBlob(html)
     .then((blob) => {
-      saveAs(blob, 'preview.png')
+      saveAs(blob, 'preview.png');
     })
     return state;
   },
