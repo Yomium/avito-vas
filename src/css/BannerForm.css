@@ -1,0 +1,15 @@
+.form {
+  max-width: 600px;
+  display: block;
+}
+
+.form-group {
+  position: relative;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.form-group input {
+  font-size: 14px;
+  margin-top: 3px;
+}
