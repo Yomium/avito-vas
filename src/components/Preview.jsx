@@ -16,9 +16,11 @@ class Preview extends React.Component {
     const { banner } = this.props;
     if (Object.keys(banner).length === 0) return null;
     return (
+      <div className="preview-wrapper">
       <div id={banner.id} className="story-preview" onClick={this.clickBanner(banner.link)} onKeyPress={this.clickBanner(banner.link)} role="link" tabIndex={0} style={{backgroundColor: banner.color}}>
         <img src={banner.image} alt={banner.title} />
         <div className="story-preview-title">{banner.title}</div>
+      </div>
       </div>
       )
   }
