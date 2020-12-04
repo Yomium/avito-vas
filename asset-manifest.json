@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/avito-vas/static/css/main.ae9c22c4.chunk.css",
-    "main.js": "/avito-vas/static/js/main.443d9bf0.chunk.js",
-    "main.js.map": "/avito-vas/static/js/main.443d9bf0.chunk.js.map",
+    "main.css": "/avito-vas/static/css/main.662eb7bb.chunk.css",
+    "main.js": "/avito-vas/static/js/main.656f7602.chunk.js",
+    "main.js.map": "/avito-vas/static/js/main.656f7602.chunk.js.map",
     "runtime-main.js": "/avito-vas/static/js/runtime-main.f81e6820.js",
     "runtime-main.js.map": "/avito-vas/static/js/runtime-main.f81e6820.js.map",
     "static/js/2.e02d58ca.chunk.js": "/avito-vas/static/js/2.e02d58ca.chunk.js",
     "static/js/2.e02d58ca.chunk.js.map": "/avito-vas/static/js/2.e02d58ca.chunk.js.map",
     "index.html": "/avito-vas/index.html",
-    "static/css/main.ae9c22c4.chunk.css.map": "/avito-vas/static/css/main.ae9c22c4.chunk.css.map",
+    "static/css/main.662eb7bb.chunk.css.map": "/avito-vas/static/css/main.662eb7bb.chunk.css.map",
     "static/js/2.e02d58ca.chunk.js.LICENSE.txt": "/avito-vas/static/js/2.e02d58ca.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f81e6820.js",
     "static/js/2.e02d58ca.chunk.js",
-    "static/css/main.ae9c22c4.chunk.css",
-    "static/js/main.443d9bf0.chunk.js"
+    "static/css/main.662eb7bb.chunk.css",
+    "static/js/main.656f7602.chunk.js"
   ]
 }
