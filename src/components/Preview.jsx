@@ -19,7 +19,7 @@ class Preview extends React.Component {
       <div className="preview-wrapper">
       <div id={banner.id} className="story-preview" onClick={this.clickBanner(banner.link)} onKeyPress={this.clickBanner(banner.link)} role="link" tabIndex={0} style={{backgroundColor: banner.color}}>
         <img src={banner.image} alt={banner.title} />
-        <div className="story-preview-title">{banner.title}</div>
+        <div className="story-preview-title">{banner.title ? banner.title.substring(0, 33) : null}</div>
       </div>
       </div>
       )
